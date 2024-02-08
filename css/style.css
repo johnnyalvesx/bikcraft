@@ -4,6 +4,7 @@
 
 
 @import url("./global/header.css");
+@import url("./global/footer.css");
 
 /* Utilidades */
 @import url("./utilidades/componentes.css");
